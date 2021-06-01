@@ -1,0 +1,3 @@
+admin url:http://localhost/faculit_system-master/public/admin
+Email:ragheb@gmail.com
+password:123
